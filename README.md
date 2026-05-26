@@ -33,7 +33,7 @@ calculator/
 
 ## 📸 Preview
 
-<img width="500" alt="Calculator Preview" src="https://via.placeholder.com/500x300?text=Calculator+Preview">
+![Calculator](calculator.png)
 
 > You can replace this image later with your own screenshot.
 
