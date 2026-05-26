@@ -31,12 +31,6 @@ calculator/
 │── script.js
 ```
 
-## 📸 Preview
-
-![Calculator](calculator.png)
-
-> You can replace this image later with your own screenshot.
-
 ## ⚡ How It Works
 
 - Numbers and operators are added to the display using JavaScript.
